@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHOAIB FAROOQ
+- 👋 Hi, I’m @SHOAIB FAROOQ (ML Engineer / Data Scientist)
 - 👀 I’m interested in Data Science and Mobile Applications Development
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
